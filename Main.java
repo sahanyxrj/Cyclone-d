@@ -22,10 +22,7 @@ public class Main {
 
     public static double calcD(double x1, double y1, double x2, double y2)
     {
-        double latitude1=Math.toRadians(x1);
-        double latitude2=Math.toRadians(x2);
-        double longitude1=Math.toRadians(y1);
-        double longitude2=Math.toRadians(y2);
+       
 
         double a= Math.sin((x1-x2)/2)*Math.sin((x1-x2)/2)+ Math.cos(x1)* Math.cos(x2)* Math.sin((y1-y2)/2)*Math.sin((y1-y2)/2);
         double c = 2 * Math.atan2(Math.sqrt(a),Math.sqrt(1-a));
