@@ -1,3 +1,3 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/6E92BE00-1F4B-4112-A665-C6612D73CD70/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57036:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/6E92BE00-1F4B-4112-A665-C6612D73CD70/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Sahany/IdeaProjects/Assignment 07 cyclone'd/out/production/Assignment 07 cyclone'd" Main
-Total Distance is 127,786.09 km.
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/0234677B-71C7-44C4-8474-54C65486764A/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54383:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/0234677B-71C7-44C4-8474-54C65486764A/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Sahany/IdeaProjects/Assignment 07 cyclone'd/out/production/Assignment 07 cyclone'd" Main
+Total Distance is 7,292.20 km.
 Process finished with exit code 0
